@@ -1,28 +1,33 @@
-# Hi, I'm Dev Jindal 👋
+# Hi, I'm Dev Jindal
 
-Final-year B.E. Computer Science student actively building full-stack projects and looking for internships and fresher roles in software development.
+Fourth-year B.E. Computer Science student interested in software engineering internships and fresher roles.
 
-## 🛠️ What I'm Working With
+## Tech Stack
 
-**Languages:** JavaScript, Java  
-**Frontend:** React 18, Vite, Tailwind CSS  
+**Languages:** Java, JavaScript, SQL  
+**Frontend:** React, Vite, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
-**Other:** JWT Auth, REST APIs, Git
+**Tools:** Git, GitHub, REST APIs, JWT
 
-## 🚀 Projects
+## Projects
 
-### 💼 [Job Application Tracker](https://github.com/devjindall/JobApplicationTracker)
-Full-stack MERN app to track job applications across recruitment stages. Features JWT authentication, debounced search, and multi-user data isolation.
-> `MongoDB` `Express` `React` `Node.js` `JWT`
+### Job Application Tracker
+A MERN application for tracking job applications and recruitment stages. Includes authentication, CRUD operations, search/filtering, and user-specific data access.
 
-### 🏨 [Hotel Booking Platform](https://github.com/devjindall/HotelBookingPlatform)
-Hotel reservation system built on MySQL with ACID transactions to prevent overbooking. Includes an AI-powered natural language search assistant and 24-point integration test suite.
-> `React` `Node.js` `MySQL` `JWT` `Gemini AI`
+`MongoDB` `Express` `React` `Node.js` `JWT`
 
-## 🌱 Currently Learning
-- Deepening my understanding of full-stack architecture and system design
-- Japanese (日本語を勉強しています 🇯🇵)
+### Hotel Booking Platform
+A full-stack hotel booking application using MySQL. Includes hotel search, room availability, bookings, cancellations, and a natural-language recommendation feature.
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Jindal-blue?logo=linkedin)](https://www.linkedin.com/in/devjindal/)
+`MySQL` `Express` `React` `Node.js` `JWT`
+
+## Currently Learning
+
+- Backend development and database design
+- Full-stack application architecture
+- Japanese
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/devjindal/)
